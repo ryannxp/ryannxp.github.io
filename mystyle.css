@@ -15,7 +15,7 @@ body {
     
             /* navigation menu */
             nav {
-                background: rgb(239, 80, 41);
+                background: rgb(232, 234, 237) ;
                 margin: 0 auto;
                 display: flex;
                 padding: 10px;
@@ -23,7 +23,7 @@ body {
             nav header {
                 display: flex;
                 align-items: center;
-                color: rgb(255, 255, 255);
+                color: rgb(232, 234, 237);
                 flex: 1;
             }
             nav ul {
@@ -57,3 +57,5 @@ body {
             .interests header {
                 font-size: 1.25em;
             }
+            body {
+  background-image: url("https://thumbs-prod.si-cdn.com/2ynh1ocE8ioeRr5hHdA_PalfRTc=/800x600/filters:no_upscale()/https://public-media.smithsonianmag.com/filer/f1/9e/f19eacd2-bc56-44b4-b8a0-7576a2a4b02e/screen_shot_2017-08-14_at_102311_pm.png")
